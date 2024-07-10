@@ -1,0 +1,15 @@
+#spring.application.name=SpringBoot03
+
+spring:
+
+
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://8.138.56.83:3306/user_center
+    username: ying
+    password: ying666
+
+  session:
+    timeout: 86400
+
