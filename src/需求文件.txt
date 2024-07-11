@@ -60,3 +60,12 @@ localhost
  项目端口号
  服务器配置
 
+
+
+
+Docker部署
+docker是容器 可以将项目的环境和项目的代码一起打包成镜像
+
+DOockerfile 用于指定构建Docker镜像的方法
+
+Dockerfile 一般情况下不需要完全从0自己写，建议去github  gitee参考同类项目（SpringBoot ）
